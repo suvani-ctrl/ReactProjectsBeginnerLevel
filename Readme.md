@@ -22,7 +22,7 @@ CSS for styling
 
 Clone the repository:
 
-git clone https://github.com/yourusername/pomodoro-timer.git
+git clone https://github.com/suvani-ctrl/pomodoro-timer.git
 cd pomodoro-timer
 
 Install dependencies:
