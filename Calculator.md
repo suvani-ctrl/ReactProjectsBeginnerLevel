@@ -8,7 +8,6 @@ A simple and stylish calculator built with React! 🧮✨
 
 Basic arithmetic operations ➕ ➖ ✖️ ➗
 
-Clean and pastel kawaii-themed UI 🎨💖
 
 Error handling for invalid calculations ⚠️
 
